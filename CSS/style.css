@@ -1,0 +1,43 @@
+
+body {
+  font-family: "Helvetica Neue";
+}
+
+h1 {
+  font-weight: 500;
+  margin-bottom: 3px;
+}
+
+h2 {
+  color: #C26866;
+  font-weight: 200;
+  margin-top: 0;
+}
+
+.main-text {
+  font-size: 24px;
+}
+
+.sponsors {
+  font-size: 14px;
+}
+
+.sponsors img {
+  width: 120px;
+}
+#app-container {
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 4px black solid;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 30px;
+  padding-left: 30px;
+}
+.header-content img {
+  display: block;
+  width: 100%;
+}
+/*footer font size 10px
+footer image width = 500px*/
